@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+uploads/products/*
+uploads/reviews/*
+!uploads/products/.gitkeep
+!uploads/reviews/.gitkeep
